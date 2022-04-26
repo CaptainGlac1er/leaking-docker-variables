@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/docker-variables.iml" filepath="$PROJECT_DIR$/docker-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hard-coded-secret.iml" filepath="$PROJECT_DIR$/hard-coded-secret.iml" />
+    </modules>
+  </component>
+</project>
